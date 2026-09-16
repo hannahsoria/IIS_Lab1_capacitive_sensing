@@ -8,6 +8,8 @@ The system first executes when the user presses 'p' then 'return.' It then count
 
 In the code, the gestures are detected through capacitive sensing across three sensors. The swipe only correctly executes if it is completed within 0.5 seconds and across all three sensors. A state machine tracks the direction of the swipes to differentiate right and left. When the game executes, the arrow sequence is different every time by using an array of random values that correspond to right or left. This system has a fun interactive usage of gesture swiping through gamifying the capacitive sensing and giving instant execution feedback.
 
-https://github.com/user-attachments/assets/ac20451c-bd5e-4d11-b27e-6fdadc6e19f0
+https://github.com/user-attachments/assets/2030706b-2453-4783-b57d-4ae8e52228c4
+
+
 
 
